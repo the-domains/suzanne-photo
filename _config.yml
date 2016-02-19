@@ -1,8 +1,6 @@
-layout_spectrum: 0.906383
 color:
   saturation: 0.1
   brandStrength: 0.6530899
-  lightness: 0.0787234
   rhythmicContrast: 0.1021277
   brandColors:
     - '#9D2D3C'
@@ -10,5 +8,19 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+  lightness: 0.0787234
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.906383
 typography_spectrum: 1
 name: Suzanne.photo
