@@ -1,0 +1,14 @@
+layout_spectrum: 0.906383
+color:
+  saturation: 0.1
+  brandStrength: 0.6530899
+  lightness: 0.0787234
+  rhythmicContrast: 0.1021277
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 1
+name: Suzanne.photo
