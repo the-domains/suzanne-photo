@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-08-15T00:07:55.587Z'
 title: Getting Started on The Grid
-description: >-
-  Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few
-  quick tips to get you up and running. 
-dateModified: '2015-12-06T01:39:03.355Z'
+description: The beauty of Maine!
+dateModified: '2016-02-19T08:03:10.661Z'
 starred: false
+datePublished: '2016-08-15T00:07:55.639Z'
 author: []
 sourcePath: _posts/2016-08-15-getting-started-on-the-grid.md
 inFeed: true
@@ -15,6 +13,15 @@ url: getting-started-on-the-grid/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca043203-69d1-44b1-82d4-26b3aaf31934.jpg)
+
+The beauty of Maine!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/892bcd6b-f265-4529-a2be-54dae24d513b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d91155c-359f-4e25-994c-f43f35f5f008.jpg)
+![Good morning sunshine!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b18d51e-c062-46d2-ba5a-d209170803a9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/730387be6b9401d32e838a7dccf56f2342f8b335.jpg)
+![Camden Harbor](https://the-grid-user-content.s3-us-west-2.amazonaws.com/96be0423-6686-4f41-920c-a770c72b89e6.jpg)
+
 # Getting Started on The Grid
 
 Welcome to The Grid Beta, we're excited to have you onboard! Here are a few quick tips to get you up and running. 
@@ -136,6 +143,3 @@ We want to hear your feedback! (It is Beta, after all.) So if you find a bug, so
 * Send us a message via the "Help" link.
 * Email us at feedback@thegrid.io
 * Feeling stuck? Head over to http://help.thegrid.io for more detailed walkthroughs on site creation, custom domains, post management, and much more!
-
-Good morning sunshine!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/770c86b4-7c74-456b-ad20-8fbce3aca21f.jpg)
