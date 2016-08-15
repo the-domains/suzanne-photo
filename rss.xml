@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Suzanne.photo]]></title>
         <description><![CDATA[Suzanne.photo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/suzanne-photo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Aug 2016 00:07:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Aug 2016 00:08:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/suzanne-photo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>The beauty of Maine!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/715891f025221e0e9b1a2c485a3d2ab3a2173c99.jpg"></article>]]></description>
+            <link>https://thegrid.ai/suzanne-photo/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">350d4ec7-acfb-4deb-9cb5-a9412b8a0f60</guid>
+            <pubDate>Mon, 15 Aug 2016 00:07:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2959970373d40f974357be931abe469874053cf.jpg"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/suzanne-photo/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">9b3c8f61-0304-4dd2-a34a-4d7494aec6f7</guid>
             <pubDate>Mon, 15 Aug 2016 00:07:55 GMT</pubDate>
         </item>
